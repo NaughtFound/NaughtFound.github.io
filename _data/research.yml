@@ -13,5 +13,5 @@
   description: >
     This research focused on designing a virtual agent capable of hallucination using Active Inference.
     I employed Unity to create the virtual environment and implemented the agent using PyTorch.
-  link: https://github.com/mgh5225/AI-RHI-fixed
+  link: https://github.com/NaughtFound/AI-RHI-fixed
   supervisor: This research is under the supervision of <a href='http://www.manshaei.org/' target='_blank'><b>Dr. Mohammad Hossein Manshaei</b></a> and <a href='https://zahabi.iut.ac.ir/' target='_blank'><b>Dr. Sayed Jalal Zahabi</b></a>

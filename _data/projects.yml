@@ -3,14 +3,14 @@
   type: string
   description: >
     A simple yet engaging implementation of the Hackenbush game, built using the Flutter framework and the Flame game engine.
-  link: https://github.com/mgh5225/pixel_hackenbush
+  link: https://github.com/NaughtFound/pixel_hackenbush
 - title: Additive Pattern Database with ANN
   year: 2023
   type: string
   description: >
     LibTorch (C++ Distributions of PyTorch) implementation of
     <i><b>Optimal Search with Neural Networks: Challenges and Approaches</i></b> paper.
-  link: https://github.com/mgh5225/PDB-ANN
+  link: https://github.com/NaughtFound/PDB-ANN
 
 - title: Deep Active Inference of rubber-hand Illusion
   year: 2022
@@ -18,7 +18,7 @@
   description: >
     Python implementation of rubber-hand illusion using Deep Active Inference 
     to find out how an agent can have illusion.
-  link: https://github.com/mgh5225/AI-RHI-fixed
+  link: https://github.com/NaughtFound/AI-RHI-fixed
 
 - title: Deep Active Inference of Mountain Car Problem
   year: 2022
@@ -26,7 +26,7 @@
   description: >
     Python implementation of Mountain Car Problem using Deep Active Inference algorithm
     and Unity as an environment to learn about active inference algorithm.
-  link: https://github.com/mgh5225/active-inference-mcp
+  link: https://github.com/NaughtFound/active-inference-mcp
 
 - title: Computer Vision Project
   year: 2022
@@ -39,7 +39,7 @@
   year: 2022
   type: string
   description: Java implementation for DSATUR graph coloring algorithm.
-  link: https://github.com/mgh5225/DSatur
+  link: https://github.com/NaughtFound/DSatur
 
 - title: Reinforcement Learning with Unity
   year: 2021
@@ -58,4 +58,4 @@
   type: string
   description: >
     As our final project in the Advanced Programming course, we implemented a graphical application for real estate managers to manage their rental and sales lists. Users could also buy or rent houses with this application.
-  link: https://github.com/mgh5225/AP_Project
+  link: https://github.com/NaughtFound/AP_Project
