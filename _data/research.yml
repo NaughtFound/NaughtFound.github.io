@@ -1,6 +1,14 @@
+- title: Master's Thesis --- Research Assistant
+  university: Amirkabir University of Technology
+  year: Sep 2023 -- Now
+  location: Tehran, Iran
+  description: >
+    The research addresses the challenge of imbalanced data in medical imaging datasets by leveraging generative models to generate counterfactual images. This approach aims to create more balanced and representative datasets.
+  supervisor: This research is under the supervision of <a href='https://aut.ac.ir/cv/2125/Farzad%20Didehvar' target='_blank'><b>Dr. Farzad Didehvar</b></a>
+
 - title: Ergonomic Assessment Using AI
   university: Isfahan University of Technology
-  year: Jan 2023 -- Ongoing
+  year: Jan 2023 -- Sep 2024
   location: Isfahan, Iran
   description: >
     This research utilizes computer vision, machine learning, and data analysis to evaluate human posture, movement, and workplace conditions, providing valuable insights for risk analysis and injury prevention.
